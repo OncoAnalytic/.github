@@ -1,7 +1,5 @@
 ![OncoAnalytic: AI-Guided Patient Stratification](onco-cover.png)
 
-"This is out of our reach and it's grown - this is getting to be drone"
-
 At OncoAnalytic, we develop AI-guided patient stratification that turns molecular and clinical test results into ranked, patient-specific drug regimens. Our platform, OncoAgent, coordinates medical-domain and general-purpose AI models through multiple rounds of analysis and cross-review, selecting drug combinations that address resistance mechanisms while minimizing toxicity.
 
 "I met my match - her name was Flo."
