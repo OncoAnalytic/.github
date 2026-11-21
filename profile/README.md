@@ -1,5 +1,7 @@
 ![OncoAnalytic: AI-Guided Patient Stratification](onco-cover.png)
 
+<br>
+
 At OncoAnalytic, we develop AI-guided patient stratification that turns molecular and clinical test results into ranked, patient-specific drug regimens. Our platform, OncoAgent, is a multi-agent AI system that coordinates medical models and general-purpose LLMs through multiple rounds of analysis and cross-review. Our own biology-based prompting guides the agents toward drug combinations that address resistance mechanisms with minimal toxicity.
 
 We have prepared reports for patients using results from clinical laboratories and medical centers, covering tumor DNA and RNA sequencing, liquid biopsy, proteomics, immunomics and pharmacogenomics, and treating physicians used them prospectively when choosing therapies. We believe patient treatments are consistently needlessly toxic; in glioblastoma, mild non-cancer drugs can be very impactful, and this is likely the case in other tumor types as well.
