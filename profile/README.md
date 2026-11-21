@@ -10,4 +10,6 @@ We connect genomics with cell function. FlowAnalytic, our quantitative live-cell
 
 We have prepared patient reports using results from clinical laboratories and medical centers, covering tumor DNA and RNA sequencing, liquid biopsy, proteomics, immunomics and pharmacogenomics. We welcome collaborations with pharmaceutical companies, clinicians and research partners.
 
+"This is out of our reach and it's grown - this is getting to be drone"
+
 - [Contact us](mailto:alexandre.matov@gmail.com)
