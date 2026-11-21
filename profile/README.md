@@ -6,6 +6,8 @@ At OncoAnalytic, we develop AI-guided patient stratification that turns molecula
 
 We connect genomics with cell function. FlowAnalytic, our quantitative live-cell imaging software, measures microtubule, actin and focal-adhesion dynamics, cell division and migration in patient-derived cells during drug exposure. These measurements reveal drug-response and resistance phenotypes that complement genomic analysis.
 
+"Deep down in my heart, I knew that Flo was good to go."
+
 We have prepared patient reports using results from clinical laboratories and medical centers, covering tumor DNA and RNA sequencing, liquid biopsy, proteomics, immunomics and pharmacogenomics. We welcome collaborations with pharmaceutical companies, clinicians and research partners.
 
 - [Contact us](mailto:alexandre.matov@gmail.com)
